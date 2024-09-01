@@ -1,4 +1,4 @@
-# Taller RabbitMQ y Spring Boot diploamdo
+# Taller RabbitMQ y Spring Boot diplomado Arqui
 
 Este proyecto implementa un sistema simple pero efectivo de notificaciones de clima utilizando RabbitMQ como broker de mensajes y Spring Boot como framework de aplicación.
 
